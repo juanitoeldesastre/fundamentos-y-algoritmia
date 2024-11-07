@@ -1,0 +1,6 @@
+Vectores: Son una lista de números (o coordenadas) que representan un punto en un espacio. Se usan para representar características de datos.
+Matrices: Son arreglos bidimensionales que permiten organizar vectores y realizar operaciones sobre ellos, como transformaciones lineales.
+Operaciones entre Vectores y Matrices: Incluye suma, resta, multiplicación, transposición y determinantes.
+Espacio Vectorial: Conjunto de vectores que pueden sumarse y escalarse mientras cumplen ciertas propiedades.
+Autovalores y Autovectores: Estos son especialmente importantes para la reducción de dimensionalidad, como en el análisis de componentes principales (PCA).
+
