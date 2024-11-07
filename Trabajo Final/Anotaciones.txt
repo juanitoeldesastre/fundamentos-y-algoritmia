@@ -13,3 +13,5 @@ stdev(): Calcula la desviación estándar de un array
 
 - statistics es ideal para cálculos estadísticos simples y pequeños conjuntos de datos.
 - numpy es preferible cuando trabajamos con grandes conjuntos de datos, debido a su rendimiento y eficiencia en cálculos vectorizados.
+
+SENATI

@@ -5,3 +5,4 @@ Matrices: Son arreglos bidimensionales que permiten organizar vectores y realiza
 Espacio Vectorial: Conjunto de vectores que pueden sumarse y escalarse mientras cumplen ciertas propiedades.
 Autovalores y Autovectores: Estos son especialmente importantes para la reducción de dimensionalidad, como en el análisis de componentes principales (PCA).
 
+SENATI
